@@ -1,0 +1,48 @@
+{
+  "employee": [
+    {
+      "lastname": "admin",
+      "firstname": "admin",
+      "middlename": "admin",
+      "sex": "male",
+      "birthday": "2023-06-07",
+      "civilstatus": "",
+      "contactnumber": "09771860610",
+      "address": "Narra street, Barangay Pamaldan",
+      "role": "admin",
+      "id": "admin",
+      "email": "admin@gmail.com",
+      "password": "password"
+    },
+    {
+      "lastname": "employee",
+      "firstname": "employee",
+      "middlename": "employee",
+      "sex": "male",
+      "birthday": "2023-06-07",
+      "civilstatus": "",
+      "contactnumber": "09771860610",
+      "address": "Narra street, Barangay Pamaldan",
+      "role": "employee",
+      "id": "employee",
+      "email": "employee@gmail.com",
+      "password": "password"
+    }
+  ],
+  "customer": [
+    {
+      "product": "fdwagasd",
+      "price": "43141",
+      "payment": "43141",
+      "lastname": "CUEVO",
+      "firstname": "Mark Lester",
+      "middlename": "Abas",
+      "sex": "male",
+      "birthday": "2023-06-07",
+      "civilstatus": "",
+      "contactnumber": "09824314224",
+      "address": "Narra street, Barangay Pamaldan",
+      "id": "customer"
+    }
+  ]
+}
